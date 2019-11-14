@@ -10,7 +10,7 @@ https://www.kaggle.com/rio2016/olympic-games#athletes.csvKaggle
     </a>
 </p>
 
-<p>Modelagem ER:</p>
+<h3>Modelagem ER:</h3>
 <img src="Angular/src/assets/imgs/modelagemER.jpg">
 
 

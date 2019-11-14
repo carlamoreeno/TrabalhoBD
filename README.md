@@ -26,3 +26,10 @@ https://www.kaggle.com/rio2016/olympic-games#athletes.csvKaggle
         npm install
     </li>
 </ol>
+
+<h3>Prototipagem do projeto</h3>
+<ol>
+    <li>
+        Figma: https://www.figma.com/file/OtkRl0awQRJIonyIUhFnjy/Trabalho-BD?node-id=0%3A1
+    </li>
+</ol>

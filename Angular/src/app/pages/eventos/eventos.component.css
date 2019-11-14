@@ -6,8 +6,22 @@ hr{
     color: #808080;
 }
 
+.data{
+    font-size: 25px;
+}
+
 .data:hover{
     color: #8B8B8B;
+}
+
+.metadata{
+    color: #8B8B8B;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.row{
+    margin-top: 2%;
 }
 
 .titulo{
@@ -17,18 +31,4 @@ hr{
     color: white;
     font-size: 42px;
     font-weight: 1000;
-}
-
-.row{
-    margin-top: 2%;
-}
-
-.metadata{
-    color: #8B8B8B;
-    font-size: 18px;
-    font-weight: bold;
-}
-
-.data{
-    font-size: 25px;
 }

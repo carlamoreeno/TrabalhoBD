@@ -6,77 +6,61 @@
 
     </div>
 
-    <div class="atletas container">
-
+    <div class="container">
         <div class="row">
-
-            <div class="col l4">
-
-                <li (click)="goToAtletaPerfil()">A Jesus Garcia</li>
-                
+            <div class="col l2">
+                <p class="metadata">PAÍS</p>
             </div>
 
             <div class="col l4">
-
-                <li>A Lam Shin</li>
-                
+                <p class="metadata">NOME</p>
             </div>
-
-
-            <div class="col l4">
-
-                <li>Aaron Brown</li>
-                
+            
+            <div class="col l3">
+                <p class="metadata">ESPORTES</p>
             </div>
-
+            
+            <div class="col l3">
+                <p class="metadata">MEDALHAS</p>
+            </div>
+            <hr>
         </div>
-
-        <div class="row atletas-row">
-
-            <div class="col l4">
-
-                <li>A Jesus Garcia</li>
-                
+        
+        <!-- Aqui entram os dados do BD -->
+        <div class="row">
+            <div class="col l2">
+                <p class="data">USA</p>
+            </div>
+            
+            <div class="col l4" (click)="goToAtletaPerfil()">
+                <p class="data">Joana Millers</p>
             </div>
 
-            <div class="col l4">
-
-                <li>A Lam Shin</li>
-                
+            <div class="col l3">
+                <p class="data">Arco e Flecha</p>
             </div>
+            
+            <div class="col l3">
+                <div class="row">
+                    <div class="col l4">
+                        <p class="gold">
+                            O 3
+                        </p>
+                    </div>
 
+                    <div class="col l4">
+                        <p class="silver">
+                            P 5
+                        </p>
+                    </div>
 
-            <div class="col l4">
-
-                <li>Aaron Brown</li>
-                
+                    <div class="col l4">
+                        <p class="bronze">
+                            B 7
+                        </p>
+                    </div>
+                </div>
             </div>
-
         </div>
-
-        <div class="row atletas-row">
-
-            <div class="col l4">
-
-                <li>A Jesus Garcia</li>
-                
-            </div>
-
-            <div class="col l4">
-
-                <li>A Lam Shin</li>
-                
-            </div>
-
-
-            <div class="col l4">
-
-                <li>Aaron Brown</li>
-                
-            </div>
-
-        </div>
-
     </div>
-
 </body>

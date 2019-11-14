@@ -2,8 +2,42 @@ body{
     font-family: 'Saira', sans-serif;
 }
 
-li:hover{
+hr{
     color: #808080;
+}
+
+.data{
+    font-size: 25px;
+}
+
+.data:hover{
+    color: #8B8B8B;
+}
+
+.metadata{
+    color: #8B8B8B;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* Medalhas */
+.gold{
+    color: #E3CB60;
+    font-size: 25px;
+}
+
+.silver{
+    color: #968A8A;
+    font-size: 25px;
+}
+
+.bronze{
+    color: #A54D0D;
+    font-size: 25px;
+}
+
+.row{
+    margin-top: 2%;
 }
 
 .titulo{

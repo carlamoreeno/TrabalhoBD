@@ -3,6 +3,10 @@ body{
 }
 
 hr{
+    color: #808080;
+}
+
+.data:hover{
     color: #8B8B8B;
 }
 

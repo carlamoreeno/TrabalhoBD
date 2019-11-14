@@ -2,6 +2,10 @@ body{
     font-family: 'Saira', sans-serif;
 }
 
+li:hover{
+    color: #808080;
+}
+
 .titulo{
     background-color: #039E38;
     padding-top: 2%;

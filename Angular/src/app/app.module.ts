@@ -13,6 +13,7 @@ import { EventosComponent } from './pages/eventos/eventos.component';
 import { HomeComponent } from './pages/home/home.component';
 import { AtletaPerfilComponent } from './pages/atleta-perfil/atleta-perfil.component';
 import { PaisPerfilComponent } from './pages/pais-perfil/pais-perfil.component';
+import { EventoPerfilComponent } from './pages/evento-perfil/evento-perfil.component';
 
 @NgModule({
   declarations: [
@@ -25,6 +26,7 @@ import { PaisPerfilComponent } from './pages/pais-perfil/pais-perfil.component';
     HomeComponent,
     AtletaPerfilComponent,
     PaisPerfilComponent,
+    EventoPerfilComponent,
   ],
   imports: [
     BrowserModule,

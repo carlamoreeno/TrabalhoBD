@@ -1,7 +1,26 @@
 body{
     /* !!! Decidir arte de fundo !!! */
     /* background-image: url('../../../assets/imgs/art.jpg'); */
+    background-color: white;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
+    font-family: 'Saira', sans-serif;
+    padding-top: 2%;
+}
+
+.background-image{
+    width: 710px;
+    padding-top: 0%;
+}
+
+.titulo{
+    padding-left: 5%;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+.subtitulo{
+    padding-left: 5%;
+    font-size: 30px;
 }

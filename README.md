@@ -17,10 +17,10 @@ https://www.kaggle.com/rio2016/olympic-games#athletes.csvKaggle
 <h3>Códigos no terminal</h3>
 <ol>
     <li>
-        git clone https://github.com/RafaelxFernandes/Trabalho-BD.git
+        git clone https://github.com/carlamoreeno/TrabalhoBD.git
     </li>
     <li>
-        cd TrabalhoBD
+        cd TrabalhoBD/Angular
     </li>
     <li>
         npm install

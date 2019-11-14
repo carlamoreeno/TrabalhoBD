@@ -10,8 +10,9 @@ body{
 }
 
 .background-image{
-    width: 710px;
+    width: 690px;
     padding-top: 0%;
+    margin-left: -5%;
 }
 
 .titulo{

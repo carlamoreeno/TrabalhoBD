@@ -2,6 +2,10 @@ body{
     font-family: 'Saira', sans-serif;
 }
 
+hr{
+    color: #8B8B8B;
+}
+
 .titulo{
     background-color: #F0C400;
     padding-top: 2%;
@@ -9,4 +13,18 @@ body{
     color: white;
     font-size: 42px;
     font-weight: 1000;
+}
+
+.row{
+    margin-top: 2%;
+}
+
+.metadata{
+    color: #8B8B8B;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.data{
+    font-size: 25px;
 }

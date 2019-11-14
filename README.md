@@ -20,7 +20,7 @@ https://www.kaggle.com/rio2016/olympic-games#athletes.csvKaggle
         git clone https://github.com/RafaelxFernandes/Trabalho-BD.git
     </li>
     <li>
-        cd trabalhoBD
+        cd TrabalhoBD
     </li>
     <li>
         npm install
@@ -33,4 +33,3 @@ https://www.kaggle.com/rio2016/olympic-games#athletes.csvKaggle
         Figma: https://www.figma.com/file/OtkRl0awQRJIonyIUhFnjy/Trabalho-BD?node-id=0%3A1
     </li>
 </ol>
-# Trabalho BD

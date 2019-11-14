@@ -1,0 +1,7 @@
+body{
+    /* !!! Decidir arte de fundo !!! */
+    /* background-image: url('../../../assets/imgs/art.jpg'); */
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

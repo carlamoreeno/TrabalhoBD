@@ -1,0 +1,22 @@
+body{
+    font-family: 'Saira', sans-serif;
+}
+
+.titulo{
+    background-color: #0087C6;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: white;
+    font-size: 42px;
+    font-weight: 1000;
+}
+
+.esportes{
+    padding-top: 3%;
+    padding-left: 5%;
+    font-size: 26px;
+}
+
+.esportes-row{
+    margin-top: 5%;
+}

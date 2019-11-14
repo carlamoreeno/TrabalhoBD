@@ -1,0 +1,26 @@
+body{
+    font-family: 'Saira', sans-serif;
+}
+
+.titulo{
+    background-color: white;
+    /* padding-top: 1%; */
+    color: #039E38;
+    font-size: 42px;
+    font-weight: 1000;
+}
+
+.info{
+    font-size: 20px;
+    margin-top: -2%;
+    padding-left: 1%;
+}
+
+.margin-top{
+    margin-top: -2%;
+}
+
+.lista{
+    margin-top: 2%;
+    margin-left: 5%;
+}

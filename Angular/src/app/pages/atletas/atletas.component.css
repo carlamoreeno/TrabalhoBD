@@ -1,0 +1,22 @@
+body{
+    font-family: 'Saira', sans-serif;
+}
+
+.titulo{
+    background-color: #E00022;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: white;
+    font-size: 42px;
+    font-weight: 1000;
+}
+
+.atletas{
+    padding-top: 3%;
+    padding-left: 5%;
+    font-size: 26px;
+}
+
+.atletas-row{
+    margin-top: 5%;
+}

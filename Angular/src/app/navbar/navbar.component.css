@@ -1,0 +1,18 @@
+nav{
+    height: 150%;
+}
+
+.logo{
+    height: 10vh;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+.navbar-link{
+    color: black;
+    font-family: 'Saira', sans-serif;
+    font-size: 32px; 
+    margin-top: 2vw;
+    margin-left: 5vw;
+    margin-right: 5vw;
+}

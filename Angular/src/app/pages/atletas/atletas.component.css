@@ -6,6 +6,10 @@ hr{
     color: #808080;
 }
 
+a{
+    color: black;
+}
+
 .data{
     font-size: 25px;
 }

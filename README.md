@@ -14,6 +14,13 @@ https://www.kaggle.com/rio2016/olympic-games#athletes.csvKaggle
 <img src="Angular/src/assets/imgs/modelagemER.jpg">
 
 
+<h3>Prototipagem do projeto</h3>
+<ul>
+    <li>
+        Figma: https://www.figma.com/file/OtkRl0awQRJIonyIUhFnjy/Trabalho-BD?node-id=0%3A1
+    </li>
+</ul>
+
 <h3>Códigos no terminal</h3>
 <ol>
     <li>
@@ -24,12 +31,5 @@ https://www.kaggle.com/rio2016/olympic-games#athletes.csvKaggle
     </li>
     <li>
         npm install
-    </li>
-</ol>
-
-<h3>Prototipagem do projeto</h3>
-<ol>
-    <li>
-        Figma: https://www.figma.com/file/OtkRl0awQRJIonyIUhFnjy/Trabalho-BD?node-id=0%3A1
     </li>
 </ol>

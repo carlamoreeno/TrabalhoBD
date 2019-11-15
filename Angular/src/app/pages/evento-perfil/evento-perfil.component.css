@@ -2,6 +2,14 @@ body{
     font-family: 'Saira', sans-serif;
 }
 
+a, h5{
+    color: black;
+}
+
+a:hover{
+    color: #808080;
+}
+
 .titulo{
     background-color: white;
     /* padding-top: 1%; */
@@ -14,6 +22,7 @@ body{
     font-size: 20px;
     margin-top: -2%;
     padding-left: 1%;
+    margin-left: 23%;
 }
 
 .margin-top{

@@ -2,6 +2,10 @@ body{
     font-family: 'Saira', sans-serif;
 }
 
+a{
+    color: black;
+}
+
 li:hover{
     color: #808080;
 }

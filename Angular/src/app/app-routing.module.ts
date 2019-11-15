@@ -9,6 +9,12 @@ import { HomeComponent } from './pages/home/home.component';
 import { AtletaPerfilComponent } from './pages/atleta-perfil/atleta-perfil.component';
 import { PaisPerfilComponent } from './pages/pais-perfil/pais-perfil.component';
 import { EventoPerfilComponent } from './pages/evento-perfil/evento-perfil.component';
+import { EsportePerfilComponent } from './pages/esporte-perfil/esporte-perfil.component';
+import { GenerosComponent } from './pages/generos/generos.component';
+import { MasculinoComponent } from './pages/masculino/masculino.component';
+import { FemininoComponent } from './pages/feminino/feminino.component';
+import { LocaisComponent } from './pages/locais/locais.component';
+import { LocalPerfilComponent } from './pages/local-perfil/local-perfil.component';
 
 const routes: Routes = [
   { path: 'esportes', component: EsportesComponent },

@@ -19,6 +19,7 @@ import { GenerosComponent } from './pages/generos/generos.component';
 import { MasculinoComponent } from './pages/masculino/masculino.component';
 import { FemininoComponent } from './pages/feminino/feminino.component';
 import { LocaisComponent } from './pages/locais/locais.component';
+import { LocalPerfilComponent } from './pages/local-perfil/local-perfil.component';
 
 @NgModule({
   declarations: [
@@ -37,6 +38,7 @@ import { LocaisComponent } from './pages/locais/locais.component';
     MasculinoComponent,
     FemininoComponent,
     LocaisComponent,
+    LocalPerfilComponent,
   ],
   imports: [
     BrowserModule,

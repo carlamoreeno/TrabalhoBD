@@ -5,16 +5,13 @@
 <p>O tema escolhido foi: "Olimpíadas Rio 2016".</p>
 
 <p>Link para o banco de dados original:
-    <a href="https://www.kaggle.com/rio2016/olympic-games#athletes.csvKaggle">
 https://www.kaggle.com/rio2016/olympic-games#athletes.csvKaggle
-    </a>
 </p>
 
 <h3>Modelagem ER:</h3>
 <img src="Angular/src/assets/imgs/modelagemER.jpg">
 
-
-<h3>Prototipagem do projeto</h3>
+<h3>Prototipagem do projeto (ideia inicial)</h3>
 <ul>
     <li>
         Figma: https://www.figma.com/file/OtkRl0awQRJIonyIUhFnjy/Trabalho-BD?node-id=0%3A1

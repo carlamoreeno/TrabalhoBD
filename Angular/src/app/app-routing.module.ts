@@ -18,12 +18,18 @@ import { LocalPerfilComponent } from './pages/local-perfil/local-perfil.componen
 
 const routes: Routes = [
   { path: 'esportes', component: EsportesComponent },
+  { path: 'esportes/esporte-perfil', component: EsportePerfilComponent },
   { path: 'atletas', component: AtletasComponent },
   { path: 'atletas/atleta-perfil', component: AtletaPerfilComponent },
   { path: 'paises', component: PaisesComponent },
   { path: 'paises/pais-perfil', component: PaisPerfilComponent },
   { path: 'eventos', component: EventosComponent },
   { path: 'eventos/evento-perfil', component: EventoPerfilComponent },
+  { path: 'generos', component: GenerosComponent },
+  { path: 'generos/feminino', component: FemininoComponent },
+  { path: 'generos/masculino', component: MasculinoComponent },
+  { path: 'locais', component: LocaisComponent },
+  { path: 'locais/local-perfil', component: LocalPerfilComponent },
   { path: 'home', component: HomeComponent },
   { path: '', redirectTo: 'home', pathMatch: 'full' }
 ];
